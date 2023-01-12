@@ -1,7 +1,7 @@
 print ("Sibenice")
-slovo = str(input("Jsem zadej slovo: "))
+slovo = input("Jsem zadej slovo: ")
 
-if slovo == bozo:
+if slovo in ["bozo", "dement", "mahal"]:
   print("Supr! Zijes")
 else:
   print(slovo)
