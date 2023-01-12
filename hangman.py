@@ -1,1 +1,8 @@
 print ("Sibenice")
+print("+------+")
+print("|      |")
+print("|      O")
+print("|     -|-")
+print("|     / \ ")
+print("|")
+print("==============")
