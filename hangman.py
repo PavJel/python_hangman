@@ -1,5 +1,5 @@
 print ("Sibenice")
-slovo = str(input("Jsem zadej slova: "))
+slovo = str(input("Jsem zadej slovo: "))
 print(slovo)
 print("+------+")
 print("|      |")
